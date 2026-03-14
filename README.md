@@ -123,19 +123,29 @@ The system demonstrates how heuristic ranking combined with similarity modeling 
 
 ### Price Distribution
 
-![Price Distribution](images/price_distribution.png)
+<h3 align="center">Price Distribution</h3>
 
-### Horsepower Distribution
+<p align="center">
+  <img src="images/price_distribution.png" width="700">
+</p>
 
-![Horsepower Distribution](images/hp_distribution.png)
+<h3 align="center">Horsepower Distribution</h3>
 
-### Feature Correlation Heatmap
+<p align="center">
+  <img src="images/hp_distribution.png" width="700">
+</p>
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+<h3 align="center">Feature Correlation Heatmap</h3>
 
-### Top Ranked Cars
+<p align="center">
+  <img src="images/correlation_heatmap.png" width="700">
+</p>
 
-![Top Ranked Cars](images/top_ranked_cars.png)
+<h3 align="center">Top Ranked Cars</h3>
+
+<p align="center">
+  <img src="images/top_ranked_cars.png" width="700">
+</p>
 
 ---
 
