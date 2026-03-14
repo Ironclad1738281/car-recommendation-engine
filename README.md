@@ -121,8 +121,6 @@ The system demonstrates how heuristic ranking combined with similarity modeling 
 
 ## 📊 Visualizations
 
-### Price Distribution
-
 <h3 align="center">Price Distribution</h3>
 
 <p align="center">
