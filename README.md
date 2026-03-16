@@ -2,8 +2,6 @@
 
 Machine learning–based recommendation system that suggests vehicles based on similarity modeling, user preference filtering, and weighted ranking logic.
 
-Live Demo: https://car-recommendation-engine-n7mwvkhqqnl2sxuw4wzncs.streamlit.app
-
 ---
 
 ## Overview
@@ -16,6 +14,8 @@ The goal of this project is to demonstrate the design of a practical recommender
 ## Web App
 
 This project includes an interactive Streamlit interface for generating car recommendations.
+
+Live Demo: https://car-recommendation-engine-n7mwvkhqqnl2sxuw4wzncs.streamlit.app
 
 Run locally:
 
@@ -179,17 +179,17 @@ Such hybrid recommendation pipelines are widely used in e-commerce, mobility pla
 
 ## Future Improvements
 
-* Collaborative filtering recommender models
+* Implement collaborative filtering for personalized recommendations
 
-* Gradient boosting–based ranking
+* Experiment with gradient boosting–based ranking models (XGBoost / LightGBM)
 
-* Real-time recommendation API
+* Deploy the recommendation engine as a REST API for integration with other applications
 
-* Streamlit web interface
+* Store user preferences and recommendation history for personalization
 
-* User preference storage and personalization
+* Incorporate additional automotive datasets for richer feature representation
 
-* Deep learning–based recommendation embeddings
+* Explore deep learning–based recommendation embeddings for improved similarity modeling
 
 ## Author
 
