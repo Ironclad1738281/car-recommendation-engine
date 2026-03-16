@@ -11,6 +11,15 @@ The system allows users to discover vehicles based on similarity to existing car
 
 The goal of this project is to demonstrate the design of a practical recommender system pipeline including data preprocessing, feature scaling, similarity modeling, ranking heuristics, and interactive user input handling.
 
+## Web App
+
+This project includes an interactive Streamlit interface for generating car recommendations.
+
+Run locally:
+
+```bash
+streamlit run app/streamlit_app.py
+```
 ---
 
 ## Tech Stack
