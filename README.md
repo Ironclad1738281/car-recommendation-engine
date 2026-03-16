@@ -2,6 +2,8 @@
 
 Machine learning–based recommendation system that suggests vehicles based on similarity modeling, user preference filtering, and weighted ranking logic.
 
+Live Demo: https://car-recommendation-engine-n7mwvkhqqnl2sxuw4wzncs.streamlit.app
+
 ---
 
 ## Overview
@@ -14,8 +16,6 @@ The goal of this project is to demonstrate the design of a practical recommender
 ## Web App
 
 This project includes an interactive Streamlit interface for generating car recommendations.
-
-Live Demo: https://car-recommendation-engine-n7mwvkhqqnl2sxuw4wzncs.streamlit.app
 
 Run locally:
 
@@ -32,7 +32,7 @@ streamlit run app/streamlit_app.py
 - Scikit-learn — KNN similarity model and feature scaling  
 - Matplotlib — visualization  
 - Seaborn — statistical visualization  
-- Streamlit - interactive web application interface
+- Streamlit — interactive web application interface
 - Joblib — model artifact persistence  
 - Jupyter Notebook — experimentation and pipeline development  
 
@@ -59,6 +59,7 @@ Dataset is included in the `data/` folder.
 
 * data/ → raw automotive dataset
 * notebooks/ → recommender system notebook
+* app/ → Streamlit web application
 * images/ → saved visualizations
 * model/ → saved scaler and cleaned dataset artifacts
 * requirements.txt → project dependencies
@@ -161,13 +162,20 @@ The system demonstrates how heuristic ranking combined with similarity modeling 
 
 ## Run Instructions
 
-```bash
-git clone https://github.com/Ironclad1738281/car-recommendation-engine.git
+Clone the repository:
+
+git clone https://github.com/Ironclad1738281/car-recommendation-engine.git  
 cd car-recommendation-engine
+
+Install dependencies:
+
 pip install -r requirements.txt
-jupyter notebook
-```
-Open:
+
+Run the Streamlit web app:
+
+streamlit run app/streamlit_app.py
+
+Or explore the development notebook:
 
 notebooks/car_recommender.ipynb
 
