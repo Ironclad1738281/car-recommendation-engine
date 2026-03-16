@@ -2,6 +2,8 @@
 
 Machine learning–based recommendation system that suggests vehicles based on similarity modeling, user preference filtering, and weighted ranking logic.
 
+Live Demo: https://car-recommendation-engine-n7mwvkhqqnl2sxuw4wzncs.streamlit.app
+
 ---
 
 ## Overview
