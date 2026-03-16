@@ -177,7 +177,7 @@ streamlit run app/streamlit_app.py
 
 Or explore the development notebook:
 
-notebooks/car_recommender.ipynb
+notebooks/recommender.ipynb
 
 ---
 
