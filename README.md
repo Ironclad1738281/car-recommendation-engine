@@ -32,6 +32,7 @@ streamlit run app/streamlit_app.py
 - Scikit-learn — KNN similarity model and feature scaling  
 - Matplotlib — visualization  
 - Seaborn — statistical visualization  
+- Streamlit - interactive web application interface
 - Joblib — model artifact persistence  
 - Jupyter Notebook — experimentation and pipeline development  
 
